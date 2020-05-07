@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mutualismers?</title>
+    <link>/</link>
+    <description>Recent content on Mutualismers?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2020 21:10:33 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Rules</title>
+      <link>/portfolio/recipe/</link>
+      <pubDate>Wed, 06 May 2020 20:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/recipe/</guid>
+      <description>&lt;p&gt;&amp;ldquo;What could prevent you from failing again to kickstart another world-changing project with other people you barely know about?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Questioning &#39;Operationalised trust&#39; (Habib-to-Dil)</title>
+      <link>/portfolio/work2/</link>
+      <pubDate>Wed, 06 May 2020 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/work2/</guid>
+      <description>&lt;p&gt;&amp;ldquo;My Inline observations about Dil&amp;rsquo;s blog article on OPERATIONALISED TRUST&amp;hellip;&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
