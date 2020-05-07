@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Mutualismers?"
+title = "Proceedings:"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "red"
   description = "Describe your website"
   copyright = "&copy;2020 : Mutualismers?"
   sidebarAbout = [
@@ -43,7 +43,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "IMAGINATIONS"
-  url = "portfolio/"
+  url = "mutualcreditclub/"
   home = true
 
   [[params.navlinks]]
